@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankush Rajabhoj
+
+
+## 🚀 About Me
+
+- 🔭 I’m a **Senior Backend Engineer** with 7+ years of experience
+- 💼 Working in **Bengaluru**
+- 🧰 Currently building a **Redis-like clone in GO**
+
 
 <!--
 **AnkushRajabhoj/AnkushRajabhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
