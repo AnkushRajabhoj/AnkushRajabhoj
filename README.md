@@ -6,7 +6,7 @@
 - 🔭 I’m a **Senior Backend Engineer** with 7+ years of experience
 - 💼 Working in **Bengaluru**
 - 🧰 Currently building a **Redis-like clone in GO**
-- - 🌱 I’m currently learning **LLM and AGIs**
+- 🌱 I’m currently learning **LLM and AGIs**
 
 
 <!--
